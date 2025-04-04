@@ -1,0 +1,10 @@
+﻿  project2.c
+C:\Users\TJ\source\repos\Project2\Project2\project2.c(55,6): error C2374: 'a': 재정의. 여러 번 초기화했습니다.
+      C:\Users\TJ\source\repos\Project2\Project2\project2.c(12,6):
+      'a' 선언을 참조하십시오.
+  
+C:\Users\TJ\source\repos\Project2\Project2\project2.c(55,14): error C2374: 'b': 재정의. 여러 번 초기화했습니다.
+      C:\Users\TJ\source\repos\Project2\Project2\project2.c(12,13):
+      'b' 선언을 참조하십시오.
+  
+C:\Users\TJ\source\repos\Project2\Project2\project2.c(60,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 'b'이(가) 있습니다.
