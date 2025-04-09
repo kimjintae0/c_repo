@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\TJ\source\repos\Project5\Project5\main.c(45,19): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+C:\Users\TJ\source\repos\Project5\Project5\main.c(45,20): error C2146: 구문 오류: ')'이(가) 'n' 식별자 앞에 없습니다.
+C:\Users\TJ\source\repos\Project5\Project5\main.c(45,21): error C2059: 구문 오류: ')'
+C:\Users\TJ\source\repos\Project5\Project5\main.c(81,1): error C2059: 구문 오류: '}'
